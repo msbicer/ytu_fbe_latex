@@ -1,2 +1,3 @@
-# ytu_fbe_latex
-YTU Fen Bilimleri Ensititüsü LaTeX tez şablonu
+2011 YTU Fen Bilimleri Ensititüsü Türkçe tez şablonuna uygun üretilmiş LaTeX şablonudur.
+
+https://github.com/shaica/LaTex-Templates adresinde verilmiş tez şablonu temel alınıp üstünde bazı değişiklik & düzeltmeler yapılmıştır.
